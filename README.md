@@ -1,6 +1,7 @@
 # partman-tui
 
 A small professional-style ncurses storage administration application for Linux.
+<img width="1851" height="1080" alt="Screenshot From 2026-10-04 19-49-30" src="https://github.com/user-attachments/assets/9354ec3c-71f2-40ff-b7ba-15cbcbd63745" />
 
 ## Safety model
 
